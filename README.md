@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0268-missing-number) |
+| [1480-running-sum-of-1d-array](https://github.com/aakashkumar49sm9-design/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/aakashkumar49sm9-design/dsa/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
