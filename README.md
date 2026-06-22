@@ -36,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
