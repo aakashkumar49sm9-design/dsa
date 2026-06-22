@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -15,4 +16,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
