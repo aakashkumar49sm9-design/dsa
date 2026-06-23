@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/aakashkumar49sm9-design/dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
